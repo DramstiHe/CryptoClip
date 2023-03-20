@@ -1,4 +1,3 @@
-Sure, here's a funky and colorful README.md description for your BTC-Clipper script on GitHub:
 
 🚀 BTC-Clipper 🚀
 
