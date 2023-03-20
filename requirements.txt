@@ -1,0 +1,5 @@
+pyperclip
+requests
+mysql-connector-python
+psutil
+numpy
